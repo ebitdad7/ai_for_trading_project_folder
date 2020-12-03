@@ -1,0 +1,1 @@
+# ai_for_trading_project_folder
