@@ -6,10 +6,10 @@ Projects: Asset management and trading signal generation.
    >Generate a trading signal based on a momentum indicator and produce projected returns. Perform a statistical test to conclude if there is alpha in the signal.
    - Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
    
-2. [Project 2: Breakout Strategy](FINAL_project_2_starter.ipynb)
+2. [Project 2: Breakout Strategy](quant_trading/breakout_strat.ipynb)
    >Evaluate a breakout signal with statistical tests. Identify effect of outliers on a trading signal.
     
-3. [Project 3: Smart Beta and Portfolio Optimization](Final_project_3_starter.ipynb)
+3. [Project 3: Smart Beta and Portfolio Optimization](quant_trading/smart_beta_optimized.ipynb)
     >Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by
 analyzing fundamental data, and by quadratic programming.
 
